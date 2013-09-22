@@ -9,9 +9,9 @@ The A-Ha moment I had is that in order to allow for reproducibility in an experi
 be delineated in spite of their random nature. For example, say I ran an experiment where I used a random number generator
 in R. To allow other experimenters to replicate the random number generating, I would make the seed transparent in 
 publications of my reearch. In her award-winning article "Enabling Reproducible Research: Licensing for Scientific
-Innovation, Victoria Stodden
+Innovation", Victoria Stodden argues that public scrutiny of research methodology 1) provides an incentive for scientists
+to strive to produce the best work, proliferates diffusion of knowledge to anyone with an internet connection, and
+prevents fraud. The latter point is particularly important in clinical research that test treatments on experimental human
+units. 
 
-The notion that results should be independently replicable, given an appropriate 
-computer platform.28 Although the community of scientists who engage in reproducible research 
-is small, a number of studies have shown that making papers and data available online leads to 
-higher citation levels
+
