@@ -1,7 +1,12 @@
 Reproducibility is important so that we can peer review the work of other scientists; therefore, we are able to verify the
 the conclusions of an experiment before we accept the results at face value on the merit that it is published in a
 national magezine or from an acclaimed university. It is important to verify protocol in research so that we make wise inferences
-that rest on the support of peer-reviewed work. 
+that rest on the support of peer-reviewed work. Computing completes the trinity in modern science, complementing theoretical and
+experimental science. Just as you would want to know which theories that provide framework for the research, it is important
+that we also publish computing protocols. I used to do a URAP internship for the Integrative Biology department, and we were 
+taught the importance of recording not only the results of PCR and gel electrophoresis, but we were also taught to write
+out the protocol for those experiments first and record any errors. unfortunatley, we were not emphasized the importance
+of making our results, however important or not they may be, accessible on an online data base. 
 
 
 
